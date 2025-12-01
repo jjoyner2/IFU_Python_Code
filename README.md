@@ -1,1 +1,1 @@
-This code was used to convert instructions for use (IFUs) into text files for the code to search through. The code would search for verbs associated with the current adaptations of Bloom's and Harrow's Taxonomies discussed in my dissertation.
+This code was used to convert instructions for use (IFUs) into text files for the code to search through. The code would search for verbs associated with the current adaptations of Bloom's and Harrow's Taxonomies.
